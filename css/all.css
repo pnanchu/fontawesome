@@ -19076,9 +19076,53 @@ readers do not read off random characters that represent icons */
 .fa-solid {
   font-weight: 900; }
 
+.fak.fa-address-card-regular-nysed::before, .fa-kit.fa-address-card-regular-nysed::before { content: "\e005"; }
+.fak.fa-badge-check-regular-nysed::before, .fa-kit.fa-badge-check-regular-nysed::before { content: "\e017"; }
+.fak.fa-ballot-check-regular-nysed::before, .fa-kit.fa-ballot-check-regular-nysed::before { content: "\e01a"; }
+.fak.fa-book-regular-nysed::before, .fa-kit.fa-book-regular-nysed::before { content: "\e025"; }
+.fak.fa-books-medical-regular-nysed::before, .fa-kit.fa-books-medical-regular-nysed::before { content: "\e022"; }
+.fak.fa-books-regular-nysed::before, .fa-kit.fa-books-regular-nysed::before { content: "\e00d"; }
+.fak.fa-calculator-regular-nysed::before, .fa-kit.fa-calculator-regular-nysed::before { content: "\e02c"; }
+.fak.fa-calendar-light-nysed::before, .fa-kit.fa-calendar-light-nysed::before { content: "\e00a"; }
+.fak.fa-calendar-week-regular-nysed::before, .fa-kit.fa-calendar-week-regular-nysed::before { content: "\e00b"; }
+.fak.fa-certificate-regular-nysed::before, .fa-kit.fa-certificate-regular-nysed::before { content: "\e019"; }
+.fak.fa-chalkboard-regular-nysed::before, .fa-kit.fa-chalkboard-regular-nysed::before { content: "\e01c"; }
+.fak.fa-chalkboard-teacher-regular-nysed::before, .fa-kit.fa-chalkboard-teacher-regular-nysed::before { content: "\e00f"; }
+.fak.fa-chat-bar-regular-nysed::before, .fa-kit.fa-chat-bar-regular-nysed::before { content: "\e009"; }
+.fak.fa-check-square-regular-nysed::before, .fa-kit.fa-check-square-regular-nysed::before { content: "\e01b"; }
+.fak.fa-chevron-square-right-regular-nysed::before, .fa-kit.fa-chevron-square-right-regular-nysed::before { content: "\e02b"; }
+.fak.fa-clinic-medical-regular-nysed::before, .fa-kit.fa-clinic-medical-regular-nysed::before { content: "\e029"; }
+.fak.fa-comment-alt-exclamation-regular-nysed::before, .fa-kit.fa-comment-alt-exclamation-regular-nysed::before { content: "\e013"; }
+.fak.fa-exclamation-regular-nysed::before, .fa-kit.fa-exclamation-regular-nysed::before { content: "\e014"; }
+.fak.fa-eye-dropper-regular-nysed::before, .fa-kit.fa-eye-dropper-regular-nysed::before { content: "\e01f"; }
+.fak.fa-file-invoice-light-nysed::before, .fa-kit.fa-file-invoice-light-nysed::before { content: "\e010"; }
+.fak.fa-file-invoice-regular-nysed::before, .fa-kit.fa-file-invoice-regular-nysed::before { content: "\e011"; }
+.fak.fa-file-powerpoint-regular-nysed::before, .fa-kit.fa-file-powerpoint-regular-nysed::before { content: "\e026"; }
+.fak.fa-hospital-regular-nysed::before, .fa-kit.fa-hospital-regular-nysed::before { content: "\e023"; }
+.fak.fa-id-badge-regular-nysed::before, .fa-kit.fa-id-badge-regular-nysed::before { content: "\e012"; }
+.fak.fa-id-card-alt-regular-nysed::before, .fa-kit.fa-id-card-alt-regular-nysed::before { content: "\e02a"; }
+.fak.fa-id-card-regular-nysed::before, .fa-kit.fa-id-card-regular-nysed::before { content: "\e006"; }
 .fak.fa-info-light-outline::before, .fa-kit.fa-info-light-outline::before { content: "\e000"; }
 .fak.fa-info-nysed::before, .fa-kit.fa-info-nysed::before { content: "\e002"; }
+.fak.fa-laptop-medical-regular-nysed::before, .fa-kit.fa-laptop-medical-regular-nysed::before { content: "\e01d"; }
+.fak.fa-laptop-regular-nysed::before, .fa-kit.fa-laptop-regular-nysed::before { content: "\e027"; }
+.fak.fa-list-alt-regular-nysed::before, .fa-kit.fa-list-alt-regular-nysed::before { content: "\e028"; }
+.fak.fa-list-regular-nysed::before, .fa-kit.fa-list-regular-nysed::before { content: "\e00c"; }
+.fak.fa-notes-medical-regular-nysed::before, .fa-kit.fa-notes-medical-regular-nysed::before { content: "\e01e"; }
+.fak.fa-pasted-svg::before, .fa-kit.fa-pasted-svg::before { content: "\e024"; }
+.fak.fa-phone-alt-regular-nysed::before, .fa-kit.fa-phone-alt-regular-nysed::before { content: "\e008"; }
+.fak.fa-phone-regular-nysed::before, .fa-kit.fa-phone-regular-nysed::before { content: "\e007"; }
+.fak.fa-portrait-regular-nysed::before, .fa-kit.fa-portrait-regular-nysed::before { content: "\e018"; }
+.fak.fa-prescription-bottle-regular-nysed::before, .fa-kit.fa-prescription-bottle-regular-nysed::before { content: "\e020"; }
+.fak.fa-prescription-regular-nysed::before, .fa-kit.fa-prescription-regular-nysed::before { content: "\e021"; }
+.fak.fa-question-circle-regular-nysed::before, .fa-kit.fa-question-circle-regular-nysed::before { content: "\e00e"; }
 .fak.fa-question-nysed::before, .fa-kit.fa-question-nysed::before { content: "\e001"; }
+.fak.fa-question-regular-nysed::before, .fa-kit.fa-question-regular-nysed::before { content: "\e003"; }
+.fak.fa-question-square-regular-nysed::before, .fa-kit.fa-question-square-regular-nysed::before { content: "\e02e"; }
+.fak.fa-tooth-regular-nysed::before, .fa-kit.fa-tooth-regular-nysed::before { content: "\e016"; }
+.fak.fa-user-reglar-nysed::before, .fa-kit.fa-user-reglar-nysed::before { content: "\e004"; }
+.fak.fa-users-regular-nysed::before, .fa-kit.fa-users-regular-nysed::before { content: "\e02d"; }
+.fak.fa-vial-regular-nysed::before, .fa-kit.fa-vial-regular-nysed::before { content: "\e015"; }
 
 .fak, .fa-kit {
   -moz-osx-font-smoothing: grayscale;
